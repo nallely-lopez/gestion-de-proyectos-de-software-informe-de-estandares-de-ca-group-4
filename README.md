@@ -112,6 +112,19 @@ cat docs/05_matriz_calidad_criterios_aceptacion.md
 
 * **Institución:** Instituto Tecnológico de Tlaxiaco (TecNM)
 * **Carrera:** Ingeniería en Sistemas Computacionales
+
+
+
+## CALIFICADO POR NALLELY 
+
+*1. Desempeño Técnico: Análisis de Stellar/Drips(Valor: 5 puntos)
+*2. Indicador A: Adaptación a situaciones y contextos complejos(Valor: 5 puntos)
+*3. Indicador D: Pensamiento crítico mediante tecnologías(Valor: 5 puntos)
+*4. Indicador E: Actividades y conocimientos interdisciplinarios(Valor: 5 puntos)
+
+Total 20 puntos  
+
+---
 * **Semestre:** 7mo Semestre
 * **Materia:** Gestión de Proyectos de Software
 * **Equipo:** Grupo 4
