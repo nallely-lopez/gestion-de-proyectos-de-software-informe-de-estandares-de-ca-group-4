@@ -54,12 +54,12 @@ Frente a la criminalización de personas defensoras del territorio, la cooptaci�
 
 El contenido ha sido estructurado de manera modular para dar cumplimiento riguroso a cada uno de los indicadores de evaluación de la asignatura (5.0 / 5.0 puntos en cada rubro):
 
-| Criterio de Evaluación / Indicador | Puntos Obtenidos | Archivo Técnico Principal | Aspectos Clave Documentados |
-| :--- | :---: | :--- | :--- |
-| **1. Desempeño Técnico: Análisis de Stellar/Drips** | **4.8 – 5.0** *(5 pts)* | [`docs/01_analisis_tecnico_stellar_drips.md`](./docs/01_analisis_tecnico_stellar_drips.md) | Arquitectura WASM de Soroban, Rust SDK, consenso SCP, almacenamiento con TTL (*State Archival*), streaming matemático de DripsHub, gobernanza en GitHub/Radicle, SEPs/CAPs y auditoría formal. |
-| **2. Indicador A: Adaptación a Situaciones y Contextos Complejos** | **4.8 – 5.0** *(5 pts)* | [`docs/02_adaptacion_contexto_mixteca.md`](./docs/02_adaptacion_contexto_mixteca.md) | Reconfiguración de la norma **ISO/IEC 25010** para la Región Mixteca: redes 2G/EDGE con 50% pérdida de paquetes, apagones por lluvias, Android Go, Ley Agraria, gobernanza por *Usos y Costumbres*. |
-| **3. Indicador D: Pensamiento Crítico mediante Tecnologías** | **4.8 – 5.0** *(5 pts)* | [`docs/03_pensamiento_critico_seguridad_etica.md`](./docs/03_pensamiento_critico_seguridad_etica.md) | Dilema ético de inmutabilidad vs. derecho a la vida/olvido (*Cryptographic Tombstoning*), rechazo al criptocolonialismo, análisis de amenazas **STRIDE** y protocolo de auditoría de costo cero para estudiantes. |
-| **4. Indicador E: Actividades y Conocimientos Interdisciplinarios** | **4.8 – 5.0** *(5 pts)* | [`docs/04_interdisciplinariedad_calidad_economia_web3.md`](./docs/04_interdisciplinariedad_calidad_economia_web3.md) | Fusión de Ingeniería de Calidad con Criptoeconomía Web3: subvenciones por hitos verificables en **Stellar Community Fund (SCF)** y streaming continuo con grafo de reparto solidario (**Drips Splits**). |
+| Criterio de Evaluación / Indicador| Archivo Técnico Principal | Aspectos Clave Documentados |
+| :--- | :--- | :--- |
+| **1. Desempeño Técnico: Análisis de Stellar/Drips** |  [`docs/01_analisis_tecnico_stellar_drips.md`](./docs/01_analisis_tecnico_stellar_drips.md) | Arquitectura WASM de Soroban, Rust SDK, consenso SCP, almacenamiento con TTL (*State Archival*), streaming matemático de DripsHub, gobernanza en GitHub/Radicle, SEPs/CAPs y auditoría formal. |
+| **2. Indicador A: Adaptación a Situaciones y Contextos Complejos** |  [`docs/02_adaptacion_contexto_mixteca.md`](./docs/02_adaptacion_contexto_mixteca.md) | Reconfiguración de la norma **ISO/IEC 25010** para la Región Mixteca: redes 2G/EDGE con 50% pérdida de paquetes, apagones por lluvias, Android Go, Ley Agraria, gobernanza por *Usos y Costumbres*. |
+| **3. Indicador D: Pensamiento Crítico mediante Tecnologías** |  [`docs/03_pensamiento_critico_seguridad_etica.md`](./docs/03_pensamiento_critico_seguridad_etica.md) | Dilema ético de inmutabilidad vs. derecho a la vida/olvido (*Cryptographic Tombstoning*), rechazo al criptocolonialismo, análisis de amenazas **STRIDE** y protocolo de auditoría de costo cero para estudiantes. |
+| **4. Indicador E: Actividades y Conocimientos Interdisciplinarios** |  [`docs/04_interdisciplinariedad_calidad_economia_web3.md`](./docs/04_interdisciplinariedad_calidad_economia_web3.md) | Fusión de Ingeniería de Calidad con Criptoeconomía Web3: subvenciones por hitos verificables en **Stellar Community Fund (SCF)** y streaming continuo con grafo de reparto solidario (**Drips Splits**). |
 
 ---
 
